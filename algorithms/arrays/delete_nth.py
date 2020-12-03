@@ -30,3 +30,7 @@ def delete_nth(array, n):
             counts[i] += 1
 
     return result
+
+ar1 = [1,2,3,1,2,4,1,2,3]
+print(delete_nth(ar1,2))
+
