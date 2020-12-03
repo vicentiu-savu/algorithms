@@ -31,6 +31,6 @@ def delete_nth(array, n):
 
     return result
 
-ar1 = [1,2,3,1,2,4,1,2,3]
+ar1 = [1,2,3,1,2,4,1,2,5,3,4,5]
 print(delete_nth(ar1,2))
 
